@@ -1,0 +1,17 @@
+.todos--container {
+  border: 1px solid black;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.todos--container h3 {
+  text-align: center;
+}
+
+.todo--item {
+  margin: 2rem;
+}
+
+.todo--item button {
+  float: right;
+}
